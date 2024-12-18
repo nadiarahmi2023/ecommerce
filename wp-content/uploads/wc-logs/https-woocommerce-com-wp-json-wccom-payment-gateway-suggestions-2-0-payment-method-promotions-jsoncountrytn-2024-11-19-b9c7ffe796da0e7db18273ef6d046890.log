@@ -1,0 +1,23 @@
+2024-11-19T13:46:13+00:00 ERROR Error getting data feed
+2024-11-19T13:46:13+00:00 ERROR Error getting data feed
+2024-11-19T13:46:14+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: SSL connection timeout
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
